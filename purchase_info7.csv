@@ -1,11 +1,10 @@
-Date,Type,Price,Pay
 11/3/2019,Transportation,-339,cash
 20/5/2019,Education,-333,bank account
 17/9/2019,Stock,871,credit card
 21/7/2019,Education,-957,credit card
 21/11/2019,Stock,226,cash
 2/12/2019,Stock,412,bank account
-8/9/2019,Entertainment,-497,bank account
+6/7/2019,Fuck,1234,bank account
 6/10/2019,Health,-895,bank account
 25/6/2019,Transportation,-345,credit card
 6/7/2019,Fashion/beauty,-835,bank account
@@ -13,34 +12,34 @@ Date,Type,Price,Pay
 13/4/2019,Stock,773,credit card
 5/4/2019,Food,-654,cash
 16/11/2019,Transportation,-466,bank account
-10/5/2019,Food,-042,credit card
+10/5/2019,Food,-42,credit card
 17/4/2019,Stock,584,cash
 19/4/2019,Pocket money,789,bank account
 30/3/2019,Education,-126,cash
 30/2/2019,Education,-327,bank account
 5/9/2019,Fashion/beauty,-616,credit card
 18/4/2019,Monthly income,605,cash
-25/3/2019,Education,-096,bank account
+25/3/2019,Education,-96,bank account
 17/10/2019,Entertainment,-406,credit card
 17/7/2019,Telephone,-981,credit card
 22/10/2019,Supermarket,-373,cash
 30/3/2019,Food,-526,credit card
 6/1/2019,Stock,427,credit card
-3/3/2019,Telephone,-007,credit card
+3/3/2019,Telephone,-7,credit card
 26/1/2019,Pocket money,972,credit card
 14/8/2019,Other,-437,credit card
 4/9/2019,Stock,949,credit card
 30/4/2019,Stock,158,cash
 3/10/2019,Entertainment,-783,bank account
-24/4/2019,Other,-045,cash
+24/4/2019,Other,-45,cash
 13/1/2019,Telephone,-985,credit card
 8/8/2019,Stock,943,cash
-23/10/2019,Fashion/beauty,-075,cash
+23/10/2019,Fashion/beauty,-75,cash
 1/4/2019,Fashion/beauty,-443,credit card
 5/10/2019,Health,-589,bank account
 22/11/2019,Monthly income,677,credit card
 23/9/2019,Pocket money,353,cash
-28/6/2019,Stock,028,bank account
+28/6/2019,Stock,28,bank account
 2/1/2019,Stock,325,bank account
 25/8/2019,Stock,695,cash
 29/10/2019,Fashion/beauty,-767,credit card
@@ -74,7 +73,7 @@ Date,Type,Price,Pay
 30/3/2019,Monthly income,207,cash
 15/10/2019,Food,-804,cash
 14/12/2019,Education,-633,bank account
-21/7/2019,Stock,058,bank account
+21/7/2019,Stock,58,bank account
 17/1/2019,Monthly income,123,credit card
 1/11/2019,Telephone,-644,bank account
 26/6/2019,Stock,591,cash
@@ -83,12 +82,12 @@ Date,Type,Price,Pay
 27/12/2019,Monthly income,708,credit card
 11/5/2019,Fashion/beauty,-121,credit card
 23/5/2019,Monthly income,438,bank account
-12/7/2019,Monthly income,058,cash
+12/7/2019,Monthly income,58,cash
 10/4/2019,Health,-332,credit card
 13/3/2019,Entertainment,-187,cash
 19/2/2019,Stock,698,credit card
 6/2/2019,Monthly income,499,cash
-16/8/2019,Monthly income,047,cash
+16/8/2019,Monthly income,47,cash
 13/8/2019,Stock,972,bank account
 14/7/2019,Pocket money,724,cash
 23/7/2019,Monthly income,351,credit card
@@ -98,12 +97,12 @@ Date,Type,Price,Pay
 8/5/2019,Pocket money,126,bank account
 27/7/2019,Fashion/beauty,-138,bank account
 20/12/2019,Stock,937,bank account
-24/2/2019,Entertainment,-008,bank account
+24/2/2019,Entertainment,-8,bank account
 14/9/2019,Telephone,-852,credit card
 13/6/2019,Monthly income,892,cash
 20/10/2019,Monthly income,531,credit card
 2/1/2019,Transportation,-223,bank account
-23/3/2019,Entertainment,-004,cash
+23/3/2019,Entertainment,-4,cash
 18/1/2019,Monthly income,492,cash
 24/10/2019,Monthly income,234,bank account
 1/8/2019,Telephone,-148,cash
@@ -121,10 +120,10 @@ Date,Type,Price,Pay
 23/1/2019,Telephone,-223,cash
 27/12/2019,Fashion/beauty,-224,cash
 10/3/2019,Pocket money,626,cash
-21/4/2019,Health,-005,bank account
+21/4/2019,Health,-5,bank account
 5/11/2019,Monthly income,265,credit card
 29/8/2019,Entertainment,-347,cash
-13/4/2019,Food,-748,bank account
+13/4/2019,Food,-748,other
 17/1/2019,Pocket money,746,bank account
 5/10/2019,Pocket money,335,credit card
 24/4/2019,Transportation,-299,cash
@@ -136,13 +135,13 @@ Date,Type,Price,Pay
 16/9/2019,Monthly income,364,cash
 7/9/2019,Food,-301,bank account
 21/6/2019,Telephone,-727,credit card
-27/3/2019,Transportation,-008,credit card
+27/3/2019,Transportation,-8,credit card
 26/1/2019,Education,-653,cash
 10/6/2019,Food,-312,cash
 20/9/2019,Entertainment,-405,credit card
 17/1/2019,Stock,366,bank account
 9/5/2019,Stock,673,credit card
-30/4/2019,Food,-035,credit card
+30/4/2019,Food,-35,credit card
 30/10/2019,Stock,557,credit card
 23/2/2019,Entertainment,-275,cash
 30/10/2019,Pocket money,474,credit card
@@ -158,12 +157,12 @@ Date,Type,Price,Pay
 25/1/2019,Food,-692,bank account
 12/3/2019,Health,-567,cash
 26/3/2019,Stock,533,cash
-21/6/2019,Stock,029,bank account
+21/6/2019,Stock,29,bank account
 22/3/2019,Health,-935,bank account
-16/7/2019,Education,-007,credit card
+16/7/2019,Education,-7,credit card
 3/2/2019,Monthly income,192,cash
 16/10/2019,Transportation,-906,credit card
-23/8/2019,Monthly income,047,bank account
+23/8/2019,Monthly income,47,bank account
 17/12/2019,Pocket money,495,bank account
 18/1/2019,Telephone,-577,credit card
 19/10/2019,Transportation,-417,cash
@@ -179,7 +178,7 @@ Date,Type,Price,Pay
 9/9/2019,Supermarket,-277,cash
 30/9/2019,Stock,389,bank account
 1/6/2019,Stock,592,credit card
-26/7/2019,Fashion/beauty,-077,bank account
+26/7/2019,Fashion/beauty,-77,bank account
 27/10/2019,Telephone,-545,bank account
 13/2/2019,Pocket money,458,cash
 7/2/2019,Stock,255,credit card
@@ -191,11 +190,12 @@ Date,Type,Price,Pay
 21/10/2019,Fashion/beauty,-832,bank account
 6/12/2019,Food,-888,cash
 22/11/2019,Pocket money,855,bank account
-25/3/2019,Pocket money,098,credit card
+25/3/2019,Pocket money,98,credit card
 2/9/2019,Monthly income,191,credit card
 3/7/2019,Pocket money,938,cash
 2/2/2019,Telephone,-381,bank account
 9/6/2019,Monthly income,362,cash
-3/6/2019,Stock,092,bank account
+3/6/2019,Stock,92,bank account
 19/5/2019,Monthly income,758,cash
 27/11/2019,Telephone,-445,bank account
+1/1/2011,Monthly income,1234,cash
