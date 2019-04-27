@@ -8,7 +8,6 @@ Thanks to the development of mobile payment apps, we are able to keep track of o
 We will start with making the flowchart of the algorithm followed by setting up multiple source files with the use of linux os system and c/cpp programming language, We will then use makefile function in linux to process these files as a program. Lastly, preparation of sample inputs to test if the program works without defect is needed.
 Our general assumption of the program includes the following:
 - All user inputs are valid(i.e, input of non-existing dates are not allowed)
-- Input are pre-sorted according to date (latest on top)
 - User is only allowed to import one input file per program running
 ## Features
 
@@ -32,5 +31,6 @@ Lastly user inputs "./main" to run the program.
 Once the program is running, user first needs to load the input file before carrying on any other functions. 
 Quiting the program without saving will not save any changes made during the program.
 
+Otherwise, user can run the program by opening "project.cpp" with "sample input.csv" in same directory.
  
 
